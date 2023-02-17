@@ -34,7 +34,7 @@ def main():
     text = input()
     mismatch = find_mismatch(text)
     # Printing answer, write your code here
-    if text1 == "I" or "F":
+    if text1 == "I" or"F":
         print(mismatch)   
     
 if __name__ == "__main__":
